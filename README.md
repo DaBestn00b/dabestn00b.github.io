@@ -6,4 +6,12 @@
 # Coming Soon
 ## Mouse Life
   Collect cheese to gain score but don't get caught! How much cheese can you collect?
-
+<head> 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-6604386936151725",
+    enable_page_level_ads: true
+  });
+</script>
+</head>
